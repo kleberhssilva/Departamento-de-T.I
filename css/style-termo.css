@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+/*Definindo propriedades do fundo e localização da área de login*/
+.tela-fundo-termo{
+    text-align: center;
+    justify-content: center;
+    align-items:center;
+    width: 100%;
+    height: 100vh;
+    font-family: 'Roboto Slab', sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(95deg,#0276DB 1%,#66f56d 99%);
+}
+/*Definindo propriedades do titulo*/
+h1{
+    position: flex;
+    padding: 5%;
+    color: white;
+    text-decoration: underline;
+   
+}
+/*Definindo cor do paragrafo*/
+p{
+    
+    color: white;
+    font-size: small ;
+    width: 100%;
+   
+}
